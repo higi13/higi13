@@ -4,3 +4,5 @@ Fixed issue #1
 Fixed issue #2
 # Bugfix 3 - 1773453481
 Fixed issue #3
+# Bugfix 4 - 1773453483
+Fixed issue #4
