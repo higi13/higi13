@@ -34,3 +34,5 @@ Description of pattern 7 implementation
 Description of pattern 8 implementation
 ## Pattern 9
 Description of pattern 9 implementation
+## Pattern 10
+Description of pattern 10 implementation
