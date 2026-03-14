@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Lizán Hoyos
+# 👋 Hola, soy Higi13
 
 ## 🎓 Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
@@ -43,43 +43,35 @@ Desarrollador de software apasionado especializado en crear aplicaciones multipl
 ### 🔧 Backend & Servicios
 - Desarrollo de APIs REST con Spring Boot
 - Automatización de procesos con Python
-- Gestión de bases de datos PostgreSQL y MySQL
+- Gestión de bases de datos PostgreSQL y MySSL
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![MisTechnologies](https://techonologies.github.repos/python-a-testing/images/0.2.0/logo/python.color=white)
+![Higi13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=higi13&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higi13&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=higi13&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=higi13&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB86C&currStreakLabel=C9D1D9)
 
 ---
 
-## 🎯 Çreas de Interés
+## 🎯 Áreas de Interés
 
 - 🤖 **Inteligencia Artificial & Machine Learning**
 - 📱 **Desarrollo Móvil (Android & Cross-platform)**
 - ☁️ **Arquitectura Cloud & Microservicios**
 - 🔒 **Ciberseguridad**
-- 🎮 **Desarrollo de Videojoegos**
+- 🎮 **Desarrollo de Videojuegos**
 
 ---
 
 ## 📫 Contáctame
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanlizanhoyos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-bbadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/higi13)
-
----
-
-## 💼 Formación Académica
-
-**Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- *Centro Educativo* | 2024 - 2026
-- Especialización en desarrollo Android, backend Java Spring Boot y bases de datos
 
 ---
 
