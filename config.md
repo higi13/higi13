@@ -12,3 +12,5 @@
 - Setting: value_6
 # Configuration 7
 - Setting: value_7
+# Configuration 8
+- Setting: value_8
