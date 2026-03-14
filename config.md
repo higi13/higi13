@@ -8,3 +8,5 @@
 - Setting: value_4
 # Configuration 5
 - Setting: value_5
+# Configuration 6
+- Setting: value_6
