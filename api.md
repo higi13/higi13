@@ -14,3 +14,5 @@ Returns a specific user.
 Added endpoint /api/v1/resource1
 ## API Update 2
 Added endpoint /api/v1/resource2
+## API Update 3
+Added endpoint /api/v1/resource3
