@@ -10,3 +10,5 @@ Creates a new user.
 
 ### GET /api/v1/users/:id
 Returns a specific user.
+## API Update 1
+Added endpoint /api/v1/resource1
