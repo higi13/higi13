@@ -10,3 +10,5 @@ Migration description 4
 Migration description 5
 # Migration 6
 Migration description 6
+# Migration 7
+Migration description 7
