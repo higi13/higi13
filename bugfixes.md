@@ -8,3 +8,5 @@ Fixed issue #3
 Fixed issue #4
 # Bugfix 5 - 1773453484
 Fixed issue #5
+# Bugfix 6 - 1773453486
+Fixed issue #6
