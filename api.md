@@ -12,3 +12,5 @@ Creates a new user.
 Returns a specific user.
 ## API Update 1
 Added endpoint /api/v1/resource1
+## API Update 2
+Added endpoint /api/v1/resource2
