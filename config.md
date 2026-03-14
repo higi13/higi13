@@ -4,3 +4,5 @@
 - Setting: value_2
 # Configuration 3
 - Setting: value_3
+# Configuration 4
+- Setting: value_4
