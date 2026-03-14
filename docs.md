@@ -1,0 +1,7 @@
+# Documentation
+
+## Project Structure
+
+- README.md - Main documentation
+- LICENSE - MIT License
+- CONTRIBUTING.md - How to contribute
