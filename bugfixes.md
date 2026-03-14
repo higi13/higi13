@@ -2,3 +2,5 @@
 Fixed issue #1
 # Bugfix 2 - 1773453479
 Fixed issue #2
+# Bugfix 3 - 1773453481
+Fixed issue #3
