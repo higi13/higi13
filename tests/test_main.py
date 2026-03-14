@@ -8,3 +8,5 @@ def test_greet():
     assert greet("World") == "Hello, World!"
 def test_case_1():
     assert True
+def test_case_2():
+    assert True
