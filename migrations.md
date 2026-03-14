@@ -44,3 +44,5 @@ Migration description 21
 Migration description 22
 # Migration 23
 Migration description 23
+# Migration 24
+Migration description 24
