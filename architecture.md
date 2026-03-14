@@ -42,3 +42,5 @@ Description of pattern 11 implementation
 Description of pattern 12 implementation
 ## Pattern 13
 Description of pattern 13 implementation
+## Pattern 14
+Description of pattern 14 implementation
