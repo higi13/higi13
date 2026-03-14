@@ -12,3 +12,5 @@ Fixed issue #5
 Fixed issue #6
 # Bugfix 7 - 1773453488
 Fixed issue #7
+# Bugfix 8 - 1773453490
+Fixed issue #8
