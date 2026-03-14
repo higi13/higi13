@@ -40,3 +40,5 @@ Migration description 19
 Migration description 20
 # Migration 21
 Migration description 21
+# Migration 22
+Migration description 22
