@@ -16,3 +16,5 @@ Added endpoint /api/v1/resource1
 Added endpoint /api/v1/resource2
 ## API Update 3
 Added endpoint /api/v1/resource3
+## API Update 4
+Added endpoint /api/v1/resource4
