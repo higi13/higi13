@@ -54,3 +54,5 @@ Description of pattern 17 implementation
 Description of pattern 18 implementation
 ## Pattern 19
 Description of pattern 19 implementation
+## Pattern 20
+Description of pattern 20 implementation
