@@ -34,3 +34,5 @@ Fixed issue #16
 Fixed issue #17
 # Bugfix 18 - 1773453507
 Fixed issue #18
+# Bugfix 19 - 1773453509
+Fixed issue #19
