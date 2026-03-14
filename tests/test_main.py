@@ -18,3 +18,5 @@ def test_case_5():
     assert True
 def test_case_6():
     assert True
+def test_case_7():
+    assert True
