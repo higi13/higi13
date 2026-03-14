@@ -8,3 +8,5 @@ Migration description 3
 Migration description 4
 # Migration 5
 Migration description 5
+# Migration 6
+Migration description 6
