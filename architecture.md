@@ -18,3 +18,5 @@ src/
 ```
 ## Pattern 1
 Description of pattern 1 implementation
+## Pattern 2
+Description of pattern 2 implementation
