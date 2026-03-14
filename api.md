@@ -32,3 +32,5 @@ Added endpoint /api/v1/resource9
 Added endpoint /api/v1/resource10
 ## API Update 11
 Added endpoint /api/v1/resource11
+## API Update 12
+Added endpoint /api/v1/resource12
