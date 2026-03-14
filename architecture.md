@@ -16,3 +16,5 @@ src/
 ├── tests/
 └── config/
 ```
+## Pattern 1
+Description of pattern 1 implementation
